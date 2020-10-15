@@ -2,7 +2,7 @@
 The technical test for pre-bootcamp interview
 
 # Instructions
-1. create an account on [here](repl.it)
+1. create an account on [here](https://repl.it)
 2. create a JavaScript repl environment for each question with the name corresponding to the function name
 3. Write your codes that solves the questions
 4. share the url links for implementations with us [here](https://forms.gle/azGag2sGQD9agc2C6)
