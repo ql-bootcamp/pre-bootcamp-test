@@ -2,14 +2,14 @@
 The technical test for pre-bootcamp interview
 
 # Instructions
-1. create an account on repl.it
-2. create a JavaScript repl environment for each question
+1. create an account on [here](repl.it)
+2. create a JavaScript repl environment for each question with the name corresponding to the function name
 3. Write your codes that solves the questions
-4. share the url links for implementations on this link
+4. share the url links for implementations with us [here](https://forms.gle/azGag2sGQD9agc2C6)
 
 
-# Questions
-1. Write a function that verifies if number is a prime.
+## Question 1
+Write a function that verifies if number is a prime.
 
 --sample 
 ```
@@ -25,8 +25,8 @@ isPrime(97) ==> true
 isPrime(33) ==> false
 ```
 
-# Questions
-2. Write a function that removes all duplicate characters in a string.
+## Question 2
+Write a function that removes all duplicate characters in a string.
 --sample 
 ```
 function removeAllDuplicates(str) {
@@ -41,8 +41,8 @@ removeAllDuplicates('i am really hungry') ==> iamrelyhungry
 removeAllDuplicates('Also he was at the house today') ==> Alsohewtdy 
 ```
 
-# Questions
-3. Write a function that sorts an array of nested numbers in descending order.
+## Questions 3
+Write a function that sorts an array of nested numbers in descending order.
 --sample 
 ```
 function sortArray(collection) {
