@@ -37,7 +37,7 @@ function removeAllDuplicates(str) {
 ```
 removeAllDuplicates('Me too') ==> Meto
 removeAllDuplicates('Wow') ==> Wow
-removeAllDuplicates('i am really hungry') ==> iamrelyhungry
+removeAllDuplicates('i am really hungry') ==> iamrelyhung
 removeAllDuplicates('Also he was at the house today') ==> Alsohewtdy 
 ```
 
